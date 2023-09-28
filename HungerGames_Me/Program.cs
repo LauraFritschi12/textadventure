@@ -205,7 +205,7 @@ class Program
                     else
 
                     {
-                        Console.WriteLine("Du und der Koch bestreiten die Spiele nun gemeinsam. Ihr kämpft und esst Seite an Seite. Doch langsam gehen die Spiele zu Ende. a Ihr bleibt zusammen und riskiert gegeneinander zu kämpfen oder b ihr geht getrennte Wege. Wähle schnell, du hast nur 20 Sekunden Zeit.");
+                        Console.WriteLine("Du und der Koch bestreiten die Spiele nun gemeinsam. Ihr kämpft und esst Seite an Seite. Doch langsam gehen die Spiele zu Ende. a Ihr bleibt zusammen und riskiert \ngegeneinander zu kämpfen oder b ihr geht getrennte Wege. Wähle schnell, du hast nur 20 Sekunden Zeit.");
                     }
                     string eingabe6 = Reader.ReadLine(20 * 1000);
 
