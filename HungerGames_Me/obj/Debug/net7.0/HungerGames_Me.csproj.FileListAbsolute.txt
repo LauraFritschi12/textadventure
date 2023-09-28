@@ -1,0 +1,30 @@
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.csproj.AssemblyReference.cache
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.AssemblyInfoInputs.cache
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.AssemblyInfo.cs
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.csproj.CoreCompileInputs.cache
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/bin/Debug/net7.0/HungerGames_Me
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/bin/Debug/net7.0/HungerGames_Me.deps.json
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/bin/Debug/net7.0/HungerGames_Me.runtimeconfig.json
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/bin/Debug/net7.0/HungerGames_Me.dll
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/bin/Debug/net7.0/HungerGames_Me.pdb
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.dll
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/obj/Debug/net7.0/refint/HungerGames_Me.dll
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.pdb
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.genruntimeconfig.cache
+/Users/laurafritschi/Documents/Master/HS23/Krea/KW39/Programmierprojekt HS23/HungerGames_Me/HungerGames_Me/obj/Debug/net7.0/ref/HungerGames_Me.dll
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.csproj.AssemblyReference.cache
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.AssemblyInfoInputs.cache
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.AssemblyInfo.cs
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.csproj.CoreCompileInputs.cache
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.dll
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/obj/Debug/net7.0/refint/HungerGames_Me.dll
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.pdb
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/bin/Debug/net7.0/HungerGames_Me
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/bin/Debug/net7.0/HungerGames_Me.deps.json
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/bin/Debug/net7.0/HungerGames_Me.runtimeconfig.json
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/bin/Debug/net7.0/HungerGames_Me.dll
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/bin/Debug/net7.0/HungerGames_Me.pdb
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/obj/Debug/net7.0/HungerGames_Me.genruntimeconfig.cache
+/Users/laurafritschi/Documents/GitHub/textadventure/HungerGames_Me/obj/Debug/net7.0/ref/HungerGames_Me.dll
